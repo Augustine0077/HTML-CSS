@@ -1,0 +1,11 @@
+Hive Metastore is a central metadata repository.
+
+It stores important information about:
+
+Databases and tables
+
+Columns and data types
+
+Partitions and schemas
+
+File locations in HDFS
